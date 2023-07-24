@@ -1,0 +1,16 @@
+.header-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(3, 15, 187, 0.897);
+  padding: 10px;
+}
+.header-btn {
+  border: none;
+  background-color: transparent;
+}
+.header-lnk {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
